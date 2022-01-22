@@ -21,7 +21,7 @@
     "url": "git+https://github.com/hefeng6500/hefeng-cli.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo @hefeng-cli/core"
   },
   "bugs": {
     "url": "https://github.com/hefeng6500/hefeng-cli/issues"
