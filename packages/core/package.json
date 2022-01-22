@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "dependencies": {
+    "@hefeng-cli/cli": "^0.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hefeng6500/hefeng-cli.git"
