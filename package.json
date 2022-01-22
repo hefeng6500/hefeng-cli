@@ -5,7 +5,7 @@
   "main": "bin/index.js",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "publish": "lerna publish",
+    "publish": "lerna publish --yes",
     "test": "lerna run test"
   },
   "author": "hefeng6500",
