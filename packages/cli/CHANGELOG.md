@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/hefeng6500/hefeng-cli/compare/v0.0.4...v0.0.5) (2022-01-22)
+
+
+### Bug Fixes
+
+* 1 ([641f23b](https://github.com/hefeng6500/hefeng-cli/commit/641f23b30ddee69d1019f9d767a1b8c449de3623))
+
+
+
+
+
 ## [0.0.4](https://github.com/hefeng6500/hefeng-cli/compare/v0.0.3...v0.0.4) (2022-01-22)
 
 
