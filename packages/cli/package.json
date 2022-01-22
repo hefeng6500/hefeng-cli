@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/hefeng6500/hefeng-cli/issues"
   },
-  "gitHead": "5f8781df61792d0e1034e29333191264aebb78b5"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "d5ba726c7a4d0fc392f300416e981d8b153698f0"
 }
