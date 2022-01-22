@@ -1,6 +1,6 @@
 {
   "name": "@hefeng-cli/core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": {
     "name": "hefeng6500",
@@ -17,7 +17,7 @@
     "lib"
   ],
   "dependencies": {
-    "@hefeng-cli/cli": "^0.0.5"
+    "@hefeng-cli/cli": "^0.0.6"
   },
   "repository": {
     "type": "git",

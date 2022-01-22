@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.6 (2022-01-22)
+
+
+### Bug Fixes
+
+* action run ([0f20c5d](https://github.com/hefeng6500/hefeng-cli/commit/0f20c5d649f2651e722033aab7b15cd1c2db825a))
+
+
+
+
+
 ## [0.0.5](https://github.com/hefeng6500/hefeng-cli/compare/v0.0.4...v0.0.5) (2022-01-22)
 
 **Note:** Version bump only for package @hefeng-cli/core
