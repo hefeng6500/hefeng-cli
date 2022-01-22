@@ -4,7 +4,9 @@
   "description": "hefeng-cli",
   "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish",
+    "test": "lerna run test"
   },
   "author": "hefeng6500",
   "license": "ISC",
