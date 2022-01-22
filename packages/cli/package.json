@@ -5,7 +5,7 @@
   "author": "hefeng6500 <2443992009@qq.com>",
   "homepage": "https://github.com/hefeng6500/hefeng-cli#readme",
   "license": "ISC",
-  "main": "src/index.js",
+  "main": "cli.js",
   "bin": {
     "hefeng": "bin/index.js"
   },
@@ -29,5 +29,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "d5ba726c7a4d0fc392f300416e981d8b153698f0"
+  "gitHead": "d5ba726c7a4d0fc392f300416e981d8b153698f0",
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "yargs": "^17.3.1"
+  }
 }
